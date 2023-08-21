@@ -6,7 +6,7 @@ div{
 	height:100px;
 	font-size:5rem;
 }
-.container{
+.holder{
 	display:flex;
 	gap:1rem;
 	justify-content: flex-start;
